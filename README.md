@@ -1,1 +1,1 @@
-# Magnificent98.github.io
+# Mag's blog
