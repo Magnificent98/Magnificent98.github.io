@@ -14,7 +14,7 @@ permalink: /
 <img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/guaiqiao1.png" width="15%" height="15%"/>
 </div>
 # Mag Zhang
-<center> Stay Hungry, Stay Fullish</center>
+<center> Stay Hungry, Stay Foolish</center>
 <center> Stay Handsome!</center>
 <br/>
 ## Personal Info
