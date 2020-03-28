@@ -14,11 +14,19 @@ permalink: /
 <img src="{{site.url}}{{site.baseurl}}{{site.assets_path}}/img/guaiqiao1.png" width="15%" height="15%"/>
 </div>
 # Mag Zhang
-<center> A Handsome Guy </center>
-<center> And This Is His Personal Blog </center>
-<center> In A Hacker's Style </center>
-<center> It's So Bald And It's So Abrupt </center>
-<center> But He Will Manage Later Somehow </center>
+<center> Stay Hungry, Stay Fullish</center>
+<center> Stay Handsome!</center>
+<br/>
+## Personal Info
+&emsp; -Sex: Male<br/>
+&emsp; -Birth: 12-12, Typical Sagittarius<br/>
+&emsp; -Nationalities: China<br/>
+&emsp; -Hometown: Taiyuan, Shanxi Province<br/>
+&emsp; -Address: Taiyuan (currently)<br/>
+&emsp; -Education: Graduate<br/>
+&emsp; -Portrait: [file missing]<br/>
+&emsp; -Notes: Data Structure, Machine Learning, Image Processing<br/>
+<br/>
 <br/>
 <br/>
 
