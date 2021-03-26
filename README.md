@@ -1,2 +1,2 @@
 # Mag's blog
-The address is magzhang.xyz
+The address is magzhang.top
